@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was is retrieving gitlab project id and information along with Readme file for the project
+
 
 ## Available Scripts
 
