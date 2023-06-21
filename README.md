@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Gitlab read repo
 
 This project is retrieving gitlab project id and information along with Readme file for the project
 
